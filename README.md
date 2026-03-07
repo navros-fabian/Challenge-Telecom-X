@@ -38,7 +38,7 @@ Informe final: gráficos y conclusiones.
 
 ## 📈 Resultados Visuales
 Distribución general de churn
-![evolucion del churn segun mese de permanencia](evolucion_del_churn_segun_mese_de_permanencia.png)
+![evolucion del churn segun mese de permanencia](images/evolucion del churn segun mese de permanencia.png)
 
 Se observa la proporción de clientes que permanecen frente a los que se dieron de baja.
 
