@@ -42,7 +42,7 @@ Distribución general de churn
 Se observa la proporción de clientes que permanecen frente a los que se dieron de baja.
 
 Churn por género
-![correlacion entre las variables](images/correlacion_entre_las_variables.png)
+![variables por genero](images/variables_por_genero.png)
 
 El gráfico muestra diferencias en la evasión según género, aunque la tendencia es relativamente equilibrada.
 
