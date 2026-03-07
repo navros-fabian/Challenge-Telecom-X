@@ -38,14 +38,17 @@ Informe final: gráficos y conclusiones.
 
 ## 📈 Resultados Visuales
 Distribución general de churn
- 
+![evolucion del churn segun mese de permanencia](evolucion_del_churn_segun_mese_de_permanencia.png)
+
 Se observa la proporción de clientes que permanecen frente a los que se dieron de baja.
 
-Churn por género  
+Churn por género
+![correlacion entre las variables](correlacion_entre_las_variables.png)
+
 El gráfico muestra diferencias en la evasión según género, aunque la tendencia es relativamente equilibrada.
 
 Churn por tipo de contrato
-  
+![churn por tipo de contrato](churn_por_tipo_de_contrato.png)  
 Los clientes con contrato mensual presentan una tasa de churn significativamente mayor que aquellos con contratos de mayor duración.
 
 ## 📌 Conclusiones
