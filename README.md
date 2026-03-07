@@ -42,13 +42,13 @@ Distribución general de churn
 Se observa la proporción de clientes que permanecen frente a los que se dieron de baja.
 
 Churn por género
-![correlacion entre las variables](correlacion_entre_las_variables.png)
+![correlacion entre las variables](images/correlacion_entre_las_variables.png)
 
 El gráfico muestra diferencias en la evasión según género, aunque la tendencia es relativamente equilibrada.
 
 Churn por tipo de contrato
 ![churn por tipo de contrato](churn_por_tipo_de_contrato.png)  
-Los clientes con contrato mensual presentan una tasa de churn significativamente mayor que aquellos con contratos de mayor duración.
+Los clientes con contrato mensual presentan una tasa de churn significativamente mayor que aquellos con contratos de mayor duración. 
 
 ## 📌 Conclusiones
 La evasión está concentrada en clientes con contratos mensuales.
